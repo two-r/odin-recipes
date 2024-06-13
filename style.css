@@ -1,0 +1,19 @@
+.top1{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: 800;
+}
+.top2{
+    color:grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+}
+.link{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    font-size: 26px;
+    font-weight: 500;
+}
